@@ -1,3 +1,6 @@
+<a href="http://www.ziligence.com"><img class="alignnone size-thumbnail wp-image-209" title="ziligence_logo_mid" src="http://ziligence.files.wordpress.com/2012/08/ziligence_logo_mid1.jpg?w=150" alt="" width="150" height="29" /></a>
+
+
 <b>Ziligence is a free & open source site for financial research launched in August, 2012 by Joe Miller from his garage in San Francisco.</b>  
 
 The site currently provides detailed earnings and valuation data for all U.S. public companies.  We run an algorithm on an open source platform to capture data from SEC filings and transform it into useable datasets.
