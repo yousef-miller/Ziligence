@@ -72,7 +72,7 @@ $body_1 = $css_hyperlink."
 
 <tr>
     <td width=$_w1%></td>
-    <td colspan=1 align=left><font size=3 color='707070'>Ziligence is now a free open sourced site</font></td>
+    <td colspan=1 align=left><font size=3 color='707070'>Ziligence is now a free open source site</font></td>
     <td colspan=1 align=right valign=bottom><font size=2.50 color='707070'>August 17, 2012 $vsp <b>Press Release</b> $vsp $blog_13</font></td>
     <td width=$_w1%></td>
 </tr>

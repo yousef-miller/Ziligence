@@ -9,7 +9,7 @@ $hdr_style = "style='background-color:#000066;height:2px;'";
 $bdr = "style='border-top:1px solid'"; $bdr_2 = "style='border-bottom:1px solid'";
 $div_padding = "<div style='padding-left:75px;'>";
 $div_padding2 = "<div style='padding-left:300px;'>";
-$_mission = 'Enable you to make better decisions by providing useful and reliable information as quickly as possible.';
+$_mission = 'Enable better financial decisions by providing useful and reliable information that is universally accessible.';
 
 $_url = $_SERVER['REQUEST_URI']; 
 $_hdr_link_2 = (strpos($_url, '?') !== false) ? substr($_url, strpos($_url, '?') + 1) : "user=$_GET[user]&tkr=$_GET[tkr]";
